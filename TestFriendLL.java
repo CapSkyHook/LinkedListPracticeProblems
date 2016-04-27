@@ -9,7 +9,7 @@ public class TestFriendLL
 		FriendLinkedList mylist = new FriendLinkedList();
 		
 		// add our friend's name to the list
-		mylist.addInFront("alice");
+		mylist.addInFront("alice"); 
 	}
 
 }
